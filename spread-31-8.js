@@ -14,4 +14,4 @@ const myArray2 = [...myArray];
 myArray.push(-1);
 
 console.log(myArray);//[3, 2, 1, 0, -1]
-console.log(myArray2);//[3, 2, 1, 0]
+console.log(myArray2);//
