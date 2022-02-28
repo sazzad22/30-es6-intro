@@ -3,7 +3,7 @@ function add(num1, num2) {
     return num1 + num2;
 }
 //funtion expression 
-const add2 = function add(num1, num2) {
+const add2 = function add2(num1, num2) {
     return num1 + num2;
 }
 //function expression (anonymouns)
